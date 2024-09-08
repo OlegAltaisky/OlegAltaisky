@@ -1,4 +1,4 @@
-I am Oleg Altaisky and i good man.
+I'm Oleg Altaisky and i'm from the Altai Mountains.
 
 <!---
 OlegAltaisky/OlegAltaisky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
