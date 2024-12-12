@@ -1,4 +1,5 @@
-I'm Oleg Altaisky and i'm from the Altai Mountains.
+# Welcome to my profile
+My name is Oleg Altaisky and I have lived my whole life in the Altai Mountains
 
 <!---
 OlegAltaisky/OlegAltaisky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
